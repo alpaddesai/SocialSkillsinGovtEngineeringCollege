@@ -1,4 +1,4 @@
-# Social Skills in Govt Engineering School
+# Social Skills in Govt Engineering College
 
 "Have to be really really smart to get in, can't buy your way in, is that it.."
 
