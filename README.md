@@ -2,6 +2,6 @@
 
 ![image](SocialSkillsIndianUniversities.jpg)
 
-![image](SocialSkillsInIndianUniversities.jpg)
+![image](SocialSkillsInIndianUniversitiesI.jpg)
 
 Additional details reference https://github.com/alpaddesai/LifeStyle
