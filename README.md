@@ -4,7 +4,7 @@
 
 ![image](SocialSkillsInIndianUniversitiesI.jpg)
 
-### Summer certifications - July
+#### Summer certifications - July
 ![image](CollegelevelProgrammingSkillsCertifications.jpg)
 
 Additional details reference https://github.com/alpaddesai/LifeStyle
